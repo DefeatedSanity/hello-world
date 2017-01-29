@@ -3,4 +3,4 @@ hello world tradition
 
 Dear World
 
-Nothing is what it seems, question everything and only trust yourself.
+Nothing is what it seems, question everything and trust yourself.
